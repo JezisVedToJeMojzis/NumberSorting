@@ -1,0 +1,15 @@
+{
+  "images":
+  [
+    {
+      "id": "1",
+      "src": "flags/sk_flag.png",
+      "title": "Slovak flag"
+    },
+    {
+      "id": "5",
+      "src": "flags/ru_flag.png",
+      "title": "Russian flag"
+    }
+  ]
+}
